@@ -9,6 +9,8 @@ out/
 
 # Docs
 docs/
+Notes.txt
+StableCoin.txt
 
 # Dotenv file
 .env
